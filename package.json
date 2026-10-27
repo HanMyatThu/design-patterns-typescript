@@ -1,0 +1,26 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Design patterns are **reusable, proven solutions to common software design problems**. They provide established approaches for structuring code, organizing objects, and managing interactions between components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/object-oriented-programming/encapsulation.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanMyatThu/design-patterns-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HanMyatThu/design-patterns-typescript/issues"
+  },
+  "homepage": "https://github.com/HanMyatThu/design-patterns-typescript#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
