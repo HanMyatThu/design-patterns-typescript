@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "start": "node dist/object-oriented-programming/encapsulation.js"
+    "start": "node dist/object-oriented-programming/abstraction.js"
   },
   "repository": {
     "type": "git",
