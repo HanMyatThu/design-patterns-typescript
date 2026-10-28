@@ -4,6 +4,7 @@ console.log('Encapsulation in TypeScript');
 
 /**
  * Encapsulation means protect the internal state of the class.
+ * to hide internal implementation details and protect object state.
  * you can achieve encapsulation in TypeScript by using access modifiers like private, protected, and public.
  * you can only access the private members of a class through public methods (getters and setters) that you define.
  */
